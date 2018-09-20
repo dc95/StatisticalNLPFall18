@@ -1,5 +1,5 @@
 name:
-   first: Anhad
-   last: Mohananey
-email: anhad@nyu.edu
-leaderboard: anhad13
+   first: Darshil
+   last: Chauhan
+email: djc621@nyu.edu
+leaderboard: dchauhan
