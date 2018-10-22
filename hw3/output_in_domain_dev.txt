@@ -333,7 +333,7 @@ bailout	NN
 concludes	VBZ
 .	.
 
-Absent	JJ
+Absent	NNP
 other	JJ
 working	VBG
 capital	NN
@@ -1181,7 +1181,7 @@ particularly	RB
 bullish	JJ
 .	.
 
-Taped	VBN
+Taped	NNP
 just	RB
 as	IN
 the	DT
@@ -1350,7 +1350,7 @@ This	DT
 is	VBZ
 n't	RB
 1987	CD
-revisited	NN
+revisited	JJ
 .	.
 ''	''
 
@@ -1467,9 +1467,9 @@ ad	NN
 campaign	NN
 ,	,
 ``	``
-Leadership	NN
+Leadership	NNP
 by	IN
-Example	NN
+Example	NNP
 .	.
 ''	''
 
@@ -1779,8 +1779,8 @@ Week	NNP
 's	POS
 special	JJ
 ``	``
-Corporate	JJ
-Elite	NN
+Corporate	NNP
+Elite	NNP
 ''	''
 issue	NN
 calls	VBZ
@@ -5161,9 +5161,9 @@ Nitze	NNP
 's	POS
 statement	NN
 (	(
-Notable	JJ
+Notable	NNP
 &	CC
-Quotable	JJ
+Quotable	NNP
 ,	,
 Sept.	NNP
 20	CD
@@ -7929,7 +7929,7 @@ also	RB
 remain	VBP
 classified	VBN
 as	IN
-non-accruing	JJ
+non-accruing	NN
 ,	,
 costing	VBG
 the	DT
@@ -8175,7 +8175,7 @@ second	JJ
 quarter	NN
 .	.
 
-Nonperformers	NNS
+Nonperformers	NNP
 totaled	VBD
 $	$
 230.8	CD
@@ -9507,8 +9507,8 @@ of	IN
 Pacific	NNP
 salmon	NN
 and	CC
-herring	NN
-violate	VBP
+herring	VBG
+violate	VB
 the	DT
 accord	NN
 .	.
@@ -12129,7 +12129,7 @@ York	NNP
 
 A	DT
 UNIFIED	NNP
-EUROPE	NN
+EUROPE	NNP
 poses	VBZ
 labor	NN
 problems	NNS
@@ -12336,7 +12336,7 @@ for	IN
 the	DT
 minor	JJ
 league	NN
-Bluefield	NN
+Bluefield	NNP
 ,	,
 Va.	NNP
 ,	,
@@ -12453,7 +12453,7 @@ the	DT
 other	JJ
 broke	VBD
 his	PRP
-jaw	NN
+jaw	VBD
 with	IN
 a	DT
 baseball	NN
@@ -12588,7 +12588,7 @@ new	JJ
 doctor	NN
 's	POS
 ``	``
-bedside	NN
+bedside	JJ
 ''	''
 extension	NN
 .	.
@@ -12740,7 +12740,7 @@ work	VBP
 SPRUCING	VBG
 UP	RP
 THE	DT
-DIGS	NN
+DIGS	NNP
 :	:
 About	RB
 200	CD
@@ -13503,7 +13503,7 @@ Loss	NN
 of	IN
 Customers	NNS
 
-FAST	JJ
+FAST	NNP
 -	HYPH
 FOOD	NN
 chicken	NN
@@ -13925,7 +13925,7 @@ Spots	NNS
 
 CALL	NNP
 IT	PRP
-un-advertising	NNP
+un-advertising	VBP
 .	.
 
 Pittsburgh	NNP
@@ -14266,7 +14266,7 @@ example	NN
 ,	,
 it	PRP
 recommends	VBZ
-nonchlorinated	VBN
+nonchlorinated	JJ
 dishwasher	NN
 detergent	NN
 and	CC
@@ -14842,7 +14842,7 @@ spending	NN
 
 But	CC
 the	DT
-NAHB	NN
+NAHB	NNP
 was	VBD
 created	VBN
 in	IN
@@ -14903,9 +14903,9 @@ matters	NNS
 close	JJ
 to	IN
 ,	,
-er	NNP
+er	UH
 ,	,
-home	NN
+home	RB
 ...	:
 
 ``	``
@@ -15015,7 +15015,7 @@ HUD	NNP
 official	NN
 ,	,
 the	DT
-NAHB	NN
+NAHB	NNP
 remains	VBZ
 susceptible	JJ
 to	IN
@@ -15422,9 +15422,9 @@ Live	NNP
 ?	.
 ''	''
 the	DT
-NAHB	NN
+NAHB	NNP
 does	VBZ
-acknowledge	VBP
+acknowledge	VB
 that	IN
 ``	``
 of	IN
@@ -15629,7 +15629,7 @@ years	NNS
 ago	RB
 when	WRB
 the	DT
-NAHB	NN
+NAHB	NNP
 lobbied	VBD
 for	IN
 the	DT
@@ -15965,7 +15965,7 @@ Helmut	NNP
 Kohl	NNP
 .	.
 
-Diplomatic	JJ
+Diplomatic	NNP
 sources	NNS
 said	VBD
 Mr.	NNP
@@ -18806,7 +18806,7 @@ the	DT
 Frankfurt	NNP
 market	NN
 's	POS
-steepest	JJS
+steepest	NN
 fall	NN
 ever	RB
 .	.
@@ -22215,7 +22215,7 @@ Party	NNP
 joined	VBD
 its	PRP$
 ideological	JJ
-soulmates	NNS
+soulmates	NN
 Jeremy	NNP
 Rifkin	NNP
 and	CC
@@ -23523,7 +23523,7 @@ said	VBD
 it	PRP
 controls	VBZ
 2,720,675	CD
-Aristech	JJ
+Aristech	NNP
 common	JJ
 shares	NNS
 ,	,
@@ -25690,7 +25690,7 @@ market	NN
 
 Municipals	NNS
 
-Rebounding	VBG
+Rebounding	NN
 stocks	NNS
 and	CC
 weaker	JJR
@@ -26172,7 +26172,7 @@ increase	VB
 its	PRP$
 stake	NN
 in	IN
-ADT	NN
+ADT	NNP
 beyond	IN
 30	CD
 %	NN
@@ -27793,8 +27793,8 @@ here	RB
 
 A	NNP
 .	.
-manual	NNP
-typewriters	NNP
+manual	)
+typewriters	NNS
 ,	,
 B	NNP
 .	.
@@ -30228,7 +30228,7 @@ manufacturing	NN
 industries	NNS
 ,	,
 the	DT
-M2	NN
+M2	NNP
 version	NN
 of	IN
 the	DT
@@ -33349,7 +33349,7 @@ the	DT
 Marxist	NNP
 -	HYPH
 dominated	VBN
-SWAPO	NN
+SWAPO	NNP
 rebels	NNS
 .	.
 
@@ -34763,7 +34763,7 @@ problem	NN
 that	WDT
 had	VBD
 been	VBN
-underpinning	JJ
+underpinning	NN
 prices	NNS
 appeared	VBD
 to	TO
@@ -36912,8 +36912,8 @@ a	DT
 U.S.	NNP
 unit	NN
 of	IN
-Memotec	NN
-created	VBN
+Memotec	NNP
+created	VBD
 for	IN
 that	DT
 purpose	NN
@@ -36985,8 +36985,8 @@ his	PRP$
 stake	NN
 in	IN
 ISI	NNP
-to	TO
-Memotec	VB
+to	IN
+Memotec	NNP
 upon	IN
 completion	NN
 of	IN
@@ -37069,7 +37069,7 @@ the	DT
 merger	NN
 agreement	NN
 with	IN
-Memotec	NN
+Memotec	NNP
 if	IN
 a	DT
 better	JJR
@@ -37596,7 +37596,7 @@ Nynex	NNP
 workers	NNS
 and	CC
 the	DT
-IBEW	NN
+IBEW	NNP
 represents	VBZ
 20,000	CD
 workers	NNS
@@ -38356,7 +38356,7 @@ Still	RB
 amid	IN
 all	PDT
 the	DT
-backslapping	NNS
+backslapping	NN
 and	CC
 signs	NNS
 of	IN
@@ -42581,7 +42581,7 @@ held	VBN
 company	NN
 ,	,
 was	VBD
-stagnating	VBG
+stagnating	NN
 under	IN
 the	DT
 management	NN
