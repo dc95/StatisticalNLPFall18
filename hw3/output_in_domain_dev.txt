@@ -1181,7 +1181,7 @@ particularly	RB
 bullish	JJ
 .	.
 
-Taped	NNP
+Taped	VBN
 just	RB
 as	IN
 the	DT
@@ -1350,7 +1350,7 @@ This	DT
 is	VBZ
 n't	RB
 1987	CD
-revisited	JJ
+revisited	VBN
 .	.
 ''	''
 
@@ -12588,7 +12588,7 @@ new	JJ
 doctor	NN
 's	POS
 ``	``
-bedside	JJ
+bedside	NN
 ''	''
 extension	NN
 .	.
@@ -12670,7 +12670,7 @@ housing	NN
 .	.
 
 TREATING	NN
-EMPLOYEES	NN
+EMPLOYEES	NNS
 with	IN
 respect	NN
 is	VBZ
@@ -14325,7 +14325,7 @@ Bros.	NNP
 confirms	VBZ
 that	IN
 its	PRP$
-Sunlight	JJ
+Sunlight	NNP
 brand	NN
 does	VBZ
 contain	VB
@@ -14974,7 +14974,7 @@ over	IN
 the	DT
 years	NNS
 the	DT
-NAHB	NN
+NAHB	NNP
 has	VBZ
 backed	VBN
 a	DT
@@ -15965,7 +15965,7 @@ Helmut	NNP
 Kohl	NNP
 .	.
 
-Diplomatic	NNP
+Diplomatic	JJ
 sources	NNS
 said	VBD
 Mr.	NNP
@@ -34763,7 +34763,7 @@ problem	NN
 that	WDT
 had	VBD
 been	VBN
-underpinning	NN
+underpinning	JJ
 prices	NNS
 appeared	VBD
 to	TO
