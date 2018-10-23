@@ -333,7 +333,7 @@ bailout	NN
 concludes	VBZ
 .	.
 
-Absent	NNP
+Absent	JJ
 other	JJ
 working	VBG
 capital	NN
@@ -1350,7 +1350,7 @@ This	DT
 is	VBZ
 n't	RB
 1987	CD
-revisited	VBN
+revisited	JJ
 .	.
 ''	''
 
@@ -1467,7 +1467,7 @@ ad	NN
 campaign	NN
 ,	,
 ``	``
-Leadership	NNP
+Leadership	NN
 by	IN
 Example	NNP
 .	.
@@ -1779,8 +1779,8 @@ Week	NNP
 's	POS
 special	JJ
 ``	``
-Corporate	NNP
-Elite	NNP
+Corporate	JJ
+Elite	NN
 ''	''
 issue	NN
 calls	VBZ
@@ -1943,7 +1943,7 @@ mean	NN
 and	CC
 the	DT
 mean	JJ
-ol'	JJ
+ol'	NN
 law	NN
 caught	VBN
 up	RP
@@ -2612,7 +2612,7 @@ cheered	VBD
 their	PRP$
 favorites	NNS
 and	CC
-booed	VBN
+booed	VBD
 the	DT
 opposition	NN
 ,	,
@@ -2908,7 +2908,7 @@ among	IN
 the	DT
 East	NNP
 Bay	NNP
-Bashers	NNS
+Bashers	NNP
 that	IN
 when	WRB
 he	PRP
@@ -4499,7 +4499,7 @@ shares	NNS
 of	IN
 Reuters	NNP
 and	CC
-punched	VBD
+punched	VBN
 a	DT
 button	NN
 to	TO
@@ -4768,7 +4768,7 @@ Street	NNP
 nearby	RB
 .	.
 
-Conversation	NNP
+Conversation	NN
 was	VBD
 subdued	VBN
 as	IN
@@ -5557,8 +5557,8 @@ this	DT
 legislation	NN
 .	.
 
-Aides	NNP
-both	CC
+Aides	IN
+both	DT
 in	IN
 the	DT
 House	NNP
@@ -9507,8 +9507,8 @@ of	IN
 Pacific	NNP
 salmon	NN
 and	CC
-herring	VBG
-violate	VB
+herring	NN
+violate	VBP
 the	DT
 accord	NN
 .	.
@@ -11742,7 +11742,7 @@ or	CC
 none	NN
 .	.
 
-Synchronized	VBN
+Synchronized	JJ
 circuit	NN
 breakers	NNS
 would	MD
@@ -12336,7 +12336,7 @@ for	IN
 the	DT
 minor	JJ
 league	NN
-Bluefield	NNP
+Bluefield	NN
 ,	,
 Va.	NNP
 ,	,
@@ -12670,7 +12670,7 @@ housing	NN
 .	.
 
 TREATING	NN
-EMPLOYEES	NN
+EMPLOYEES	NNS
 with	IN
 respect	NN
 is	VBZ
@@ -12740,7 +12740,7 @@ work	VBP
 SPRUCING	VBG
 UP	RP
 THE	DT
-DIGS	NNP
+DIGS	NN
 :	:
 About	RB
 200	CD
@@ -12797,7 +12797,7 @@ $	$
 55,000	CD
 .	.
 
-CURBING	NNP
+CURBING	IN
 WAGE	NN
 BOOSTS	NNS
 will	MD
@@ -13007,7 +13007,7 @@ real	JJ
 -	HYPH
 estate	NN
 values	NNS
-depreciated	JJ
+depreciated	VBD
 ,	,
 the	DT
 council	NN
@@ -13112,7 +13112,7 @@ appraisals	NNS
 ,	,
 to	TO
 deter	VB
-overpaying	NN
+overpaying	JJ
 ,	,
 rose	VBD
 to	IN
@@ -13503,7 +13503,7 @@ Loss	NN
 of	IN
 Customers	NNS
 
-FAST	NNP
+FAST	NN
 -	HYPH
 FOOD	NN
 chicken	NN
@@ -15226,7 +15226,7 @@ or	CC
 congressmen	NNS
 .	.
 
-Indirect	NNP
+Indirect	JJ
 subsidies	NNS
 ,	,
 through	IN
@@ -16302,7 +16302,7 @@ investor	NN
 as	IN
 their	PRP$
 highly	RB
-margined	VBN
+margined	JJ
 investments	NNS
 in	IN
 the	DT
@@ -19491,8 +19491,8 @@ should	MD
 be	VB
 called	VBN
 The	DT
-Big	NNP
-Greenback	NNP
+Big	JJ
+Greenback	NN
 .	.
 
 (	(
@@ -20040,7 +20040,7 @@ the	DT
 crash	NN
 .	.
 
-Transports	NNP
+Transports	NNS
 plunged	VBD
 on	IN
 takeover	NN
@@ -23485,7 +23485,7 @@ Huntsman	NNP
 Holdings	NNP
 ,	,
 acquire	VB
-Aristech	NN
+Aristech	JJ
 in	IN
 a	DT
 friendly	JJ
@@ -25815,7 +25815,7 @@ at	IN
 hand	NN
 .	.
 
-Professionals	NNP
+Professionals	NNS
 dominated	VBD
 municipal	JJ
 trading	NN
@@ -27844,7 +27844,7 @@ coming	VBG
 back	RP
 .	.
 
-Trendy	NNP
+Trendy	JJ
 magazine	NN
 advertisements	NNS
 feature	VBP
@@ -28729,7 +28729,7 @@ His	PRP$
 On	NNP
 -	HYPH
 Broadway	NNP
-Photography	NN
+Photography	NNP
 studio	NN
 in	IN
 Portland	NNP
@@ -29267,7 +29267,7 @@ Alfred	NNP
 DeBat	NNP
 of	IN
 Professional	NNP
-Photographers	NNS
+Photographers	NNP
 of	IN
 America	NNP
 .	.
@@ -32228,7 +32228,7 @@ days.	NN
 ,	,
 standard	JJ
 conventional	JJ
-fixedrate	JJ
+fixedrate	NN
 mortgages	NNS
 ;	:
 7.875	CD
@@ -33382,8 +33382,8 @@ O'Linn	NNP
 was	VBD
 openly	RB
 sympathetic	JJ
-to	IN
-SWAPO	NNP
+to	TO
+SWAPO	VB
 .	.
 
 Shortly	RB
@@ -33654,8 +33654,8 @@ O'Linn	NNP
 was	VBD
 openly	RB
 sympathetic	JJ
-to	IN
-SWAPO	NNP
+to	TO
+SWAPO	VB
 and	CC
 indeed	RB
 had	VBD
@@ -35446,7 +35446,7 @@ it	PRP
 .	.
 ''	''
 
-FARM	NNP
+FARM	NN
 PRODUCTS	NNS
 :	:
 
@@ -36401,7 +36401,7 @@ Field	NNP
 in	IN
 the	DT
 southeast	NN
-Sumatra	NNP
+Sumatra	NN
 area	NN
 of	IN
 Indonesia	NNP
@@ -36912,8 +36912,8 @@ a	DT
 U.S.	NNP
 unit	NN
 of	IN
-Memotec	NN
-created	VBN
+Memotec	NNP
+created	VBD
 for	IN
 that	DT
 purpose	NN
@@ -36985,8 +36985,8 @@ his	PRP$
 stake	NN
 in	IN
 ISI	NNP
-to	IN
-Memotec	NNP
+to	TO
+Memotec	VB
 upon	IN
 completion	NN
 of	IN
@@ -36999,7 +36999,7 @@ combination	NN
 of	IN
 cash	NN
 ,	,
-Memotec	JJ
+Memotec	NNP
 stock	NN
 and	CC
 debentures	NNS
@@ -37069,7 +37069,7 @@ the	DT
 merger	NN
 agreement	NN
 with	IN
-Memotec	NN
+Memotec	NNP
 if	IN
 a	DT
 better	JJR
@@ -37715,7 +37715,7 @@ he	PRP
 smiled	VBD
 broadly	RB
 ,	,
-brandished	VBN
+brandished	VBD
 his	PRP$
 unlit	JJ
 cigar	NN
