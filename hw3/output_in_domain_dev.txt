@@ -1181,7 +1181,7 @@ particularly	RB
 bullish	JJ
 .	.
 
-Taped	NNP
+Taped	VBN
 just	RB
 as	IN
 the	DT
@@ -2253,7 +2253,7 @@ Nos.	NNP
 through	IN
 9	CD
 ,	,
-a.k.a.	CC
+a.k.a.	IN
 the	DT
 ``	``
 bottom	NN
@@ -2780,7 +2780,7 @@ and	CC
 White	NNP
 Sox	NNP
 (	(
-hey	NNP
+hey	NN
 ,	,
 it	PRP
 's	VBZ
@@ -4400,7 +4400,7 @@ Smith	NNP
 said	VBD
 .	.
 
-Seconds	NNP
+Seconds	NNS
 later	RB
 ,	,
 a	DT
@@ -4499,7 +4499,7 @@ shares	NNS
 of	IN
 Reuters	NNP
 and	CC
-punched	VBD
+punched	VBN
 a	DT
 button	NN
 to	TO
@@ -11742,7 +11742,7 @@ or	CC
 none	NN
 .	.
 
-Synchronized	JJ
+Synchronized	VBN
 circuit	NN
 breakers	NNS
 would	MD
@@ -13007,7 +13007,7 @@ real	JJ
 -	HYPH
 estate	NN
 values	NNS
-depreciated	VBD
+depreciated	JJ
 ,	,
 the	DT
 council	NN
@@ -13112,7 +13112,7 @@ appraisals	NNS
 ,	,
 to	TO
 deter	VB
-overpaying	JJ
+overpaying	NN
 ,	,
 rose	VBD
 to	IN
@@ -13497,7 +13497,7 @@ market	NN
 
 Chicken	NNP
 Chains	NNP
-Ruffled	VBD
+Ruffled	NNP
 By	IN
 Loss	NN
 of	IN
@@ -14266,7 +14266,7 @@ example	NN
 ,	,
 it	PRP
 recommends	VBZ
-nonchlorinated	JJ
+nonchlorinated	VBN
 dishwasher	NN
 detergent	NN
 and	CC
@@ -14903,7 +14903,7 @@ matters	NNS
 close	JJ
 to	IN
 ,	,
-er	UH
+er	NN
 ,	,
 home	RB
 ...	:
@@ -16302,7 +16302,7 @@ investor	NN
 as	IN
 their	PRP$
 highly	RB
-margined	JJ
+margined	VBN
 investments	NNS
 in	IN
 the	DT
@@ -18667,9 +18667,9 @@ like	JJ
 ''	''
 as	IN
 investors	NNS
-fled	VBD
-to	TO
-bluechip	VB
+fled	VBN
+to	IN
+bluechip	JJ
 Australian	JJ
 stocks	NNS
 and	CC
@@ -19667,7 +19667,7 @@ collection	NN
 of	IN
 anti-scientific	JJ
 ,	,
-anti-pocketbook	NN
+anti-pocketbook	JJ
 nonsense	NN
 can	MD
 pass	VB
@@ -22215,7 +22215,7 @@ Party	NNP
 joined	VBD
 its	PRP$
 ideological	JJ
-soulmates	NN
+soulmates	NNS
 Jeremy	NNP
 Rifkin	NNP
 and	CC
@@ -23189,7 +23189,7 @@ fiscal	JJ
 year	NN
 .	.
 
-Enjoying	JJ
+Enjoying	VBG
 several	JJ
 blockbuster	NN
 movie	NN
@@ -23485,7 +23485,7 @@ Huntsman	NNP
 Holdings	NNP
 ,	,
 acquire	VB
-Aristech	JJ
+Aristech	NNP
 in	IN
 a	DT
 friendly	JJ
@@ -25690,7 +25690,7 @@ market	NN
 
 Municipals	NNS
 
-Rebounding	NN
+Rebounding	VBG
 stocks	NNS
 and	CC
 weaker	JJR
@@ -25815,7 +25815,7 @@ at	IN
 hand	NN
 .	.
 
-Professionals	NNS
+Professionals	NNP
 dominated	VBD
 municipal	JJ
 trading	NN
@@ -29267,7 +29267,7 @@ Alfred	NNP
 DeBat	NNP
 of	IN
 Professional	NNP
-Photographers	NNP
+Photographers	NNS
 of	IN
 America	NNP
 .	.
@@ -32228,7 +32228,7 @@ days.	NN
 ,	,
 standard	JJ
 conventional	JJ
-fixedrate	NN
+fixedrate	JJ
 mortgages	NNS
 ;	:
 7.875	CD
@@ -36401,7 +36401,7 @@ Field	NNP
 in	IN
 the	DT
 southeast	NN
-Sumatra	NN
+Sumatra	NNP
 area	NN
 of	IN
 Indonesia	NNP
@@ -36597,7 +36597,7 @@ with	IN
 Pertamina	NNP
 ,	,
 the	DT
-Indonesian	NNP
+Indonesian	JJ
 state	NN
 oil	NN
 company	NN
@@ -36912,8 +36912,8 @@ a	DT
 U.S.	NNP
 unit	NN
 of	IN
-Memotec	NNP
-created	VBD
+Memotec	NN
+created	VBN
 for	IN
 that	DT
 purpose	NN
@@ -37069,7 +37069,7 @@ the	DT
 merger	NN
 agreement	NN
 with	IN
-Memotec	NNP
+Memotec	NN
 if	IN
 a	DT
 better	JJR
@@ -37715,7 +37715,7 @@ he	PRP
 smiled	VBD
 broadly	RB
 ,	,
-brandished	VBD
+brandished	VBN
 his	PRP$
 unlit	JJ
 cigar	NN
@@ -40315,7 +40315,7 @@ Wallach	NNP
 an	DT
 associate	NN
 of	IN
-ex-Attorney	NNP
+ex-Attorney	NN
 General	NNP
 Meese	NNP
 ,	,
@@ -40456,7 +40456,7 @@ treating	VBG
 diabetes	NN
 .	.
 
-Delegates	NNP
+Delegates	NNS
 from	IN
 91	CD
 nations	NNS
